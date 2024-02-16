@@ -1,0 +1,5 @@
+temperature,ph_level,label
+28.5,7.2,Low Risk
+25.0,6.8,Low Risk
+30.0,7.5,High Risk
+22.0,6.5,Low Risk
